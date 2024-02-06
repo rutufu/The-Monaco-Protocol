@@ -1,4 +1,6 @@
 # The-Monaco-Protocol
+![monaco](https://github.com/rutufu/The-Monaco-Protocol/assets/84708060/a3d2c2a4-2743-4f2b-a27e-4f0aa8734c7b)
+
 
 # What is the Monaco Protocol
 The Monaco Protocol is a decentralized liquidity network for prediction markets built on the Solana blockchain. It provides the infrastructure for creating exchange-based applications where users can wager on binary outcome events. In simpler terms, it allows betting on yes/no predictions in a secure and transparent way, without relying on a central authority.
